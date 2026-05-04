@@ -31,7 +31,7 @@
 1. Keil MDK-ARM 打开 `MDK-ARM/openloop1.uvprojx`
 2. 编译下载到目标板
 3. 连接电机、驱动板和霍尔传感器后上电
-4. 按 KEY0 逆时针启动，KEY1 顺时针启动，KEY2 停止
+4. 按 KEY0 逆时针（CCW）启动，KEY1 顺时针（CW）启动
 
 ## 许可证
 
