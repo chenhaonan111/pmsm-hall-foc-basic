@@ -1,0 +1,33 @@
+# STM32CubeMX / MXproject
+.mxproject
+
+# Keil MDK-ARM build outputs
+MDK-ARM/RTE/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.scvd
+MDK-ARM/*.crf
+MDK-ARM/*.d
+MDK-ARM/*.o
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+MDK-ARM/*.htm
+MDK-ARM/*.lnp
+MDK-ARM/*.map
+MDK-ARM/*.iex
+MDK-ARM/*.sct
+MDK-ARM/*.dep
+MDK-ARM/*.build_log.htm
+MDK-ARM/*.lst
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+MDK-ARM/JLink*
+MDK-ARM/EventRecorder*
+
+# Editor / OS
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
